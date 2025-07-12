@@ -2,9 +2,9 @@
 
 **Frontend Developer | Junior**
 
- Tashkent, Uzbekistan
- tretyakov125718@gmail.com
- [GitHub](https://github.com/TretyakovSergey)
+ Location: Tashkent, Uzbekistan   
+ Email: tretyakov125718@gmail.com   
+ GitHub: (https://github.com/TretyakovSergey)
 
 ---
 
@@ -66,7 +66,7 @@ Created a resume using Markdown and deployed it via GitHub Pages
 ---
 
 ## Code Example
-
+```ts
  type User = {
    name: string;
    isGuest?: boolean;
@@ -79,6 +79,6 @@ Created a resume using Markdown and deployed it via GitHub Pages
 
  console.log(greetUser({ name: "Sergey" }));
  console.log(greetUser());
-
+```
 ## Project
 **CV Markdown**
