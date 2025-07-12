@@ -1,4 +1,4 @@
-# Tretyakov Sergey 
+# Tretyakov Sergey  
 
 **Frontend Developer | Junior**
 
