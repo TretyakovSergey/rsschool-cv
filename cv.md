@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+## 🙎‍♂️ About Me
 
  Motivated junior frontend developer with a background in software testing and a strong interest in web development. 
  I have hands-on experience with layout (HTML/CSS), working with Git and GitHub, and have completed a course in automated testing. 
@@ -65,7 +65,7 @@ Created a resume using Markdown and deployed it via GitHub Pages
 
 ---
 
-## Code Example
+## 👨‍💻 Code Example
 ```ts
  type User = {
    name: string;
